@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 </div>
 
 <img align="right" height="192" width = "290" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&" alt="Shahrukh5" /></p>
