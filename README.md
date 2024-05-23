@@ -33,5 +33,5 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahrukh5&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=7&theme=dracula&hide_border=false" height="230" alt="languages graph"  />
 </div>
 
-
+<img align="right" height="192" width = "290" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&" alt="" /></p>
