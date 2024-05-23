@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 </div>
 
 ### Github Stats
+
+<div align="left">
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahrukh5&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=7&theme=dracula&hide_border=false" height="230" alt="languages graph"  />
+</div>
+
