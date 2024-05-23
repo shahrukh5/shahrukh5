@@ -1,3 +1,6 @@
+
+<h1 align="center">Hello there 👋, I'm Sardar Shahrukh </h1>
+
 <!--
 ## Hi there 👋
 **shahrukh5/shahrukh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
