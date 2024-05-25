@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-firebase,aws,npm
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,npm,nestjs,php,laravel,mongodb,postgres,mysql,postman,github,git,linux,materialui,tailwind,vite,vscode,webpack,graphql,html,css,bootstrap,scss)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,npm,nestjs,php,laravel,mongodb,postgres,mysql,postman,github,git,linux,materialui,tailwind,vite,vscode,webpack,graphql,html,css,bootstrap,firebase,aws,scss)](https://skillicons.dev)
