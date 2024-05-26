@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there 👋, I'm Sardar Shahrukh </h1>
+<h1 align="center">Hello there, I'm Sardar Shahrukh </h1>
 
 
 <!--
