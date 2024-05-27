@@ -37,9 +37,6 @@ Here are some ideas to get you started:
 <img align="right" height="192" width = "290" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&" alt="Shahrukh5" /></p>
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,npm,nestjs,php,laravel,mongodb,postgres,mysql,postman,github,git,tailwind,vite,vscode,webpack,graphql,html,css,bootstrap,firebase,aws,scss&theme=light)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,angular,express,nestjs,vue,php,laravel,html,css,tailwind,bootstrap,mysql,mongodb,postgres,cs,cpp,c,dotnet,py,django,go,rust,wordpress,postman,bitbucket,github,git,gcp,aws,docker,kubernetes,scss&theme=light)](https://skillicons.dev)
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=shahrukh5 alt=shahrukh5 /> </p>
