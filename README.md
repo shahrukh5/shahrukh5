@@ -43,4 +43,33 @@ Here are some ideas to get you started:
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=shahrukh5 alt=shahrukh5 /> </p>
 
+## Connect with me  
+<div align="center">
+ <a href="mailto:">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+ <a href="https://www.linkedin.com/in/ /" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://github.com/ " target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://twitter.com/ " target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://www.instagram.com/ /" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://www.facebook.com//" target="_blank">
+  <img src=https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+ </a>
+<!--
+ <a href=" " target="_blank">
+  <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=instagram style="margin-bottom: 5px;" />
+ </a>
+-->
+</div>
+
+<br/>
+
 
