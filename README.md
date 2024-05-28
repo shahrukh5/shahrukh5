@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi,👋 I'm Sardar Shahrukh </h1>
-<h5>Competitive programmer and a passionate full-stack developer from London,UK.</h5>
+
 <!--
 ## Hi there 👋
 **shahrukh5/shahrukh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
