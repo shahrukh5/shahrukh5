@@ -93,3 +93,11 @@ Here are some ideas to get you started:
 ![Styled-Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white)
 ![RestAPIs](https://img.shields.io/badge/rest%20apis-%23005C97.svg?style=flat&logo=api&logoColor=white)
 
+
+## Data Stack and Cloud Platforms
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
