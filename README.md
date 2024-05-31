@@ -100,4 +100,4 @@ Here are some ideas to get you started:
 -->
 </div>
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=shahrukh5 alt=shahrukh5 /> </p>
+<p align=Center> <img src=https://komarev.com/ghpvc/?username=shahrukh5 alt=shahrukh5 /> </p>
