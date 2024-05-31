@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23007396.svg?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
 ## Frameworks and Libraries
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![React.js](https://img.shields.io/badge/react-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -62,8 +61,6 @@ Here are some ideas to get you started:
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white)
 ![RestAPIs](https://img.shields.io/badge/rest%20apis-%23005C97.svg?style=flat&logo=api&logoColor=white)
-
-
 ## Data Stack and Cloud Platforms
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white)
