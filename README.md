@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
-
-## Connect with me  
+<p align=Center> <h2>Connect with me </h2> </p>
+ 
 <div align="center">
  <a href="mailto:">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -99,5 +99,5 @@ Here are some ideas to get you started:
  </a>
 -->
 </div>
-
+</br>
 <p align=Center> <img src=https://komarev.com/ghpvc/?username=shahrukh5 alt=shahrukh5 /> </p>
