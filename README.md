@@ -20,26 +20,15 @@ Here are some ideas to get you started:
 
 <h5>Competitive programmer and a passionate full-stack developer from London,UK.</h5>
 
-** Github Stats:**
-
-
-<div align="left">
-  
+## Github Stats:
+<div align="left">  
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahrukh5&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=7&theme=dracula&hide_border=false" height="230" alt="languages graph"  />
 </div>
 
 <img align="right" height="192" width = "290" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&" alt="Shahrukh5" /></p>
 
-
-
-
-
-
-
-<p text=bold>Programming Languages</p>
-
-
+## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
