@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Sardar Shahrukh </h1>
 
-<p align="center"> <a href="https://github.com/Shahrukh5"><img src="https://github-profile-trophy.vercel.app/?username=Shahrukh5&theme=monokai" alt="SardarShahrukh" /></a> </p>
+
 
 
 <!--
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 | GitHub Stats | GitHub Streak | 
 | --- | --- | 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahrukh5&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&theme=radical&hide_border=false) | 
+
+<p align="center"> <a href="https://github.com/Shahrukh5"><img src="https://github-profile-trophy.vercel.app/?username=Shahrukh5&theme=monokai" alt="SardarShahrukh" /></a> </p>
 
 ## Programming Languages, Frameworks, and Data Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
