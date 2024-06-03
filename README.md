@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 | --- | --- | 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahrukh5&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&theme=radical&hide_border=false) | 
 
-<img align="right" height="230" width = "320" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
+<img align="right" height="230" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
 <div align="left">
   
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrukh5&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=7&theme=dracula&hide_border=false" height="230" alt="languages graph"  />
