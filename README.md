@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi, I'm Sardar Shahrukh </h1>
 
+<p align="center"> <a href="https://github.com/Shahrukh5"><img src="https://github-profile-trophy.vercel.app/?username=Shahrukh5&theme=monokai" alt="SardarShahrukh" /></a> </p>
+
+
 <!--
 ## Hi there 👋
 **shahrukh5/shahrukh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
