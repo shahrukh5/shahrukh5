@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | --- | --- | 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahrukh5&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&theme=radical&hide_border=false) | 
 
-<p align="center"> <a href="https://github.com/Shahrukh5"><img src="https://github-profile-trophy.vercel.app/?username=Shahrukh5&theme=monokai" alt="SardarShahrukh" /></a> </p>
+
 
 ## Programming Languages, Frameworks, and Data Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white)
 ![AWS](https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+
+<p align="center"> <a href="https://github.com/Shahrukh5"><img src="https://github-profile-trophy.vercel.app/?username=Shahrukh5&theme=monokai" alt="SardarShahrukh" /></a> </p>
 
 <p align=Center> <h2>Connect with me </h2> </p>
  
