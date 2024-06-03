@@ -1,3 +1,20 @@
+class SoftwareEngineer :
+	def __init__(self):
+	    self.name = "Sardar Shahrukh"
+	    self.about = """Dedicated Software Engineer and passionate about learning new things
+			    and interested in competitive programming.I have been in touch with coding for many years."""
+	def getSkills(self):
+		return {
+			 "frontend" : "ReactJs,Redux,Angular,Tailwind,Bootstrap,Html,CSS,",
+			 "backend" :  "NodeJs, ExpressJs, NestJs, ASP.NET Core, Laravel, CodeIgniter",
+			 "mobile" : "Flutter, Dart",
+			 "programming_languages": "Php, JavaScript, TypeScript, PHP, C, C++, Go, Rust",
+                         "tools_and_tech": "Jira, Confluence, Slack, Git, Postman, VS Code, Docker, Kubernetes, AWS, GCP",
+                         "architecture": "Clean Architecture, MVC, Microservices",
+                         "testing_libraries": "Selenium, React Testing Library, Pytest, Playwright, Cypress"
+		}
+
+
 
 <h1 align="center">Hi, I'm Sardar Shahrukh </h1>
 
