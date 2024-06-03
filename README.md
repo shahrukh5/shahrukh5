@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Statistics:
 
-| GitHub Stats | GitHub Streak | Top Languages |
-| --- | --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahrukh5&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&theme=radical&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrukh5&theme=radical&hide_border=false&layout=compact) |
+| GitHub Stats | GitHub Streak | 
+| --- | --- | 
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahrukh5&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&theme=radical&hide_border=false) | 
 
 
 ## Programming Languages
