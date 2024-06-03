@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 | --- | --- | 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahrukh5&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&theme=radical&hide_border=false) | 
 
-
-## Programming Languages
+## Programming Languages, Frameworks, Libraries, and Data Stack Cloud Platforms
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23007396.svg?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-## Frameworks and Libraries
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![React.js](https://img.shields.io/badge/react-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -49,7 +48,7 @@ Here are some ideas to get you started:
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white)
 ![RestAPIs](https://img.shields.io/badge/rest%20apis-%23005C97.svg?style=flat&logo=api&logoColor=white)
-## Data Stack and Cloud Platforms
+
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
