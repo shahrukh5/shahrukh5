@@ -17,7 +17,7 @@ class SoftwareEngineer :
 
  ```
 
-<h1 align="center">Hi, I'm Sardar Shahrukh </h1>
+
 
 
 
@@ -37,9 +37,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h5>Competitive programmer and a passionate full-stack developer from London,UK.</h5>
-<p> Dedicated Software Engineer and passionate about learning new things and interested in competitive programming.I have been in touch with coding for many years.</p>
 
 ## 📊 GitHub Statistics:
 
