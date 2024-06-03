@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 <div >
   
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrukh5&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=7&theme=dracula&hide_border=false" height="230" alt="languages graph"  />
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 ## Programming Languages, Frameworks, and Data Stack
