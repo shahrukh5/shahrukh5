@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 | --- | --- | 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahrukh5&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahrukh5&theme=radical&hide_border=false) | 
 
-## Programming Languages, Frameworks, Libraries, and Data Stack Cloud Platforms
+## Programming Languages, Frameworks, and Data Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
