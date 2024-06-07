@@ -106,11 +106,12 @@ Here are some ideas to get you started:
  <a href="https://www.facebook.com//" target="_blank">
   <img src=https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white alt=instagram style="margin-bottom: 5px;" />
  </a>
+</br>
+<p align=Center> <img src=https://komarev.com/ghpvc/?username=shahrukh5 alt=shahrukh5 /> </p>	
 <!--
  <a href=" " target="_blank">
   <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=instagram style="margin-bottom: 5px;" />
  </a>
 -->
 </div>
-</br>
-<p align=Center> <img src=https://komarev.com/ghpvc/?username=shahrukh5 alt=shahrukh5 /> </p>
+
