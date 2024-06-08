@@ -6,7 +6,7 @@ class SoftwareEngineer :
                             in competitive programming.I have been in touch with coding for many years."""
 	def getSkills(self):
 		return {
-			 "frontend" : "ReactJs,Redux,Angular,Tailwind,Bootstrap,Html,CSS,",
+			 "frontend" : "ReactJs,Redux,Angular,Tailwind,Bootstrap,Html,CSS",
 			 "backend" :  "NodeJs, ExpressJs, NestJs, ASP.NET Core, Laravel, CodeIgniter",
 			 "mobile" : "Flutter, Dart",
 			 "programming_languages": "Php, JavaScript, TypeScript, PHP, C, C++, Go, Rust",
