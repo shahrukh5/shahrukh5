@@ -9,7 +9,7 @@ class SoftwareEngineer :
 			 "frontend" : "ReactJs,Redux,Angular,Tailwind,Bootstrap,Html,CSS",
 			 "backend" :  "NodeJs, ExpressJs, NestJs, ASP.NET Core, Laravel, CodeIgniter",
 			 "mobile" : "Flutter, Dart",
-			 "programming_languages": ", JavaScript, TypeScript, PHP, C, C++, Go, Rust",
+			 "programming_languages": "JavaScript, TypeScript, PHP, C, C++, Go, Rust",
                          "tools_and_tech": "Jira, Confluence, Slack, Git, Postman, VS Code, Docker, Kubernetes, AWS, GCP",
                          "architecture": "Clean Architecture, MVC, Microservices",
                          "testing_libraries": "Selenium, React Testing Library, Pytest, Playwright, Cypress"
