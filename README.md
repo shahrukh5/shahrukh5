@@ -3,7 +3,7 @@ class SoftwareEngineer :
 	def __init__(self):
 	    self.name = "Sardar Shahrukh"
 	    self.about = "Dedicated Software Engineer and passionate about learning new things and interested
-                            in competitive programming.I have been in touch with coding for many years."
+                            in competitive programming. I have been in touch with coding for many years."
 	def getSkills(self):
 		return {
 			 "frontend" : "ReactJs,Redux,Angular,Tailwind,Bootstrap,Html,CSS",
