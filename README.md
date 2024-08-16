@@ -6,6 +6,7 @@ class SoftwareEngineer :
                             in competitive programming. I have been in touch with coding for many years."
 	def getSkills(self):
 		return {
+
 			 "frontend" : "ReactJs,Redux,Angular,Tailwind,Bootstrap,Html,CSS",
 			 "backend" :  "NodeJs, ExpressJs, NestJs, ASP.NET Core, Laravel, CodeIgniter",
 			 "programming_languages": "JavaScript, TypeScript, PHP, C, C++, Rust",
